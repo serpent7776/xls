@@ -5,9 +5,9 @@ list directory contents as xml file
 
 ##usage
 
-xls [-R] <dir-list>
-xls --help
-xls --version
+xls [-R] <dir-list>  
+xls --help  
+xls --version  
 
 ###flags
 
